@@ -1,6 +1,6 @@
 # NairaCoin - Cryptocurrency Web App
 
-Web landing page of cryptocurrency site, built with React and Tailwindcss.
+Web landing page of a cryptocurrency site, built with React and Tailwindcss.
 
 
 
