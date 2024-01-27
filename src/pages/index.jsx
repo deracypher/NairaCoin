@@ -8,6 +8,8 @@ import PartnerSection from '../components/sections/PartnerSection';
 import CreditCardSection from '../components/sections/CreditCardSection';
 import TradingToolsSection from '../components/sections/TradingToolsSection';
 import SecuritySection from '../components/sections/SecuritySection';
+import StepSection from '../components/sections/StepSection';
+import FaqSection from '../components/sections/FaqSection';
 
 export default function index() {
   return (
@@ -19,6 +21,8 @@ export default function index() {
       <CreditCardSection />
       <TradingToolsSection />
       <SecuritySection />
+      <StepSection />
+      <FaqSection />
     </Layout>
   );
 }
