@@ -86,7 +86,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="text-center py-6">
-        <p className="text-gray">© Copyright 2024 NairaCoin LLC. All rights reserved</p>
+        <p className="text-gray">© Copyright 2024 NairaCoin Ltd. All rights reserved</p>
         <small className='text-gray'>
           Design by Deracypher, checkout the repository <a href="https://github.com/deracypher/NairaCoin" className="text-primary" target="_blank" rel='noreferrer'>here</a>
         </small>
